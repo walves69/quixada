@@ -1,4 +1,4 @@
-baseURL: https://walves69.github.io/quixada/
+baseURL: https://walves69.github.io/quixada
 publishDir: docs
 disableKinds:
   - section

@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Quixadá
 author: Wllyssys Alves
+webrick:
+  headers:
+    My-Header: Quixadá

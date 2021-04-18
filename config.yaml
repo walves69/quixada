@@ -1,0 +1,25 @@
+baseURL: https://example.com
+publishDir: docs
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+  - '404'
+defaultContentLanguage: en
+theme: hugo-product-launch
+title: Quixadá - Linha do Tempo
+markup:
+  goldmark:
+    renderer:
+      hardWraps: yes
+      unsafe: true
+params:
+  #copyright: © Builders Of The Future, Inc.
+  description: Linha do tempo da cidade de Quixadá
+  favicon: images/favicon.png
+  images: images/share-image.png
+  meta:
+    keywords: quixadá, linha do tempo, milestone
+  title: Quixadá - Linha do Tempo

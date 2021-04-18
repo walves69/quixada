@@ -1,4 +1,4 @@
-baseURL: https://walves69.github.io/quixada
+baseURL: /
 publishDir: docs
 disableKinds:
   - section
@@ -7,7 +7,7 @@ disableKinds:
   - RSS
   - robotsTXT
   - '404'
-defaultContentLanguage: en
+defaultContentLanguage: pt-br
 theme: hugo-product-launch
 title: Quixadá - Linha do Tempo
 markup:

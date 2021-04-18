@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Hugo Bootstrap v4 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://walves69.github.io/quixada/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://walves69.github.io/quixada/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://walves69.github.io/quixada/2021/04/creating-a-new-theme/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://walves69.github.io/quixada/2021/04/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
+    </item>
+    
     <item>
       <title>Creating a New Theme</title>
       <link>https://walves69.github.io/quixada/2014/09/creating-a-new-theme/</link>

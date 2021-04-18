@@ -7,8 +7,7 @@ menu:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Creating a New Theme
-weight: 10
+title: Testando linha do tempo
 ---
 
 
@@ -16,4 +15,6 @@ weight: 10
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vSCZiL1MXozGYtoVGGopOFUaE57DE1unWw8-QXDZ1vA&font=Default&lang=pt&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<div class="iframe_container">
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vSCZiL1MXozGYtoVGGopOFUaE57DE1unWw8-QXDZ1vA&font=Default&lang=pt&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" frameborder='0'></iframe>
+</div>

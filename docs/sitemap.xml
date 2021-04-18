@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://walves69.github.io/quixada/2021/04/creating-a-new-theme/</loc>
-    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://walves69.github.io/quixada/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,6 +17,9 @@
     <loc>https://walves69.github.io/quixada/</loc>
     <lastmod>2021-04-17T21:42:11-03:00</lastmod>
   </url><url>
+    <loc>https://walves69.github.io/quixada/sobre/sobre/</loc>
+    <lastmod>2021-04-17T21:42:11-03:00</lastmod>
+  </url><url>
     <loc>https://walves69.github.io/quixada/sobre/</loc>
     <lastmod>2021-04-17T21:42:11-03:00</lastmod>
   </url><url>
@@ -33,6 +33,9 @@
     <lastmod>2021-04-17T21:42:11-03:00</lastmod>
   </url><url>
     <loc>https://walves69.github.io/quixada/posts/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://walves69.github.io/quixada/2021/04/testando-linha-do-tempo/</loc>
     <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://walves69.github.io/quixada/2020/12/hello-r-markdown/</loc>

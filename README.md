@@ -9,13 +9,13 @@
 
 Visualizar - [link](https://walves69.github.io/quixada/)
 
-Linha do tempo com os principais acontecimentos - [LINK](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vSCZiL1MXozGYtoVGGopOFUaE57DE1unWw8-QXDZ1vA&font=Default&lang=pt&initial_zoom=2&height=650)
+Linha do tempo com os principais acontecimentos - [LINK](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vSCZiL1MXozGYtoVGGopOFUaE57DE1unWw8-QXDZ1vA&font=Fjalla-Average&lang=pt-br&initial_zoom=2&height=650)
 
 
 Para usar incorporado
 
 ```html
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vSCZiL1MXozGYtoVGGopOFUaE57DE1unWw8-QXDZ1vA&font=Default&lang=pt&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vSCZiL1MXozGYtoVGGopOFUaE57DE1unWw8-QXDZ1vA&font=Fjalla-Average&lang=pt-br&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 ```
 
 
